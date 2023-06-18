@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thehapps/static/css/main.f177a344.css",
+    "main.js": "/thehapps/static/js/main.a5ba5b22.js",
+    "index.html": "/thehapps/index.html",
+    "main.f177a344.css.map": "/thehapps/static/css/main.f177a344.css.map",
+    "main.a5ba5b22.js.map": "/thehapps/static/js/main.a5ba5b22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f177a344.css",
+    "static/js/main.a5ba5b22.js"
+  ]
+}

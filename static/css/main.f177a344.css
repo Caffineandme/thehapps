@@ -1,0 +1,2 @@
+nav ul{list-style-type:none;margin:0;padding:0}nav ul li{display:inline-block;margin-right:10px}nav ul li a{color:#000;text-decoration:none}@media (max-width:767px){nav ul.mobile-menu{display:none}nav.mobile-menu-open ul.mobile-menu{display:block}nav.mobile-menu-open label{background-color:#333;color:#fff;cursor:pointer;display:block;padding:10px;width:100%}nav.mobile-menu-open input[type=checkbox]{display:none}nav.mobile-menu-open ul.mobile-menu li{display:block}}img{display:block;height:auto;max-width:100%;object-fit:contain}
+/*# sourceMappingURL=main.f177a344.css.map*/
