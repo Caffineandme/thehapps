@@ -1,0 +1,11 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+/* Adjust styles for screens smaller than 600px */
+@media (max-width: 600px) {
+	/* CSS rules for smaller screens */
+}
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	object-fit: contain;
+}
