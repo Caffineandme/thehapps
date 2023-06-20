@@ -9,9 +9,7 @@ const News = () => {
 	// Function to fetch news data from the API
 	const fetchNews = async () => {
 		try {
-			const response = await axios.get(
-				`https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.REACT_APP_API_KEY}`
-			);
+			const response = await axios.get(`http://localhost:8000/api/news`);
 			setArticles(response.data.articles);
 		} catch (error) {
 			console.log(error);
